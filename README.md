@@ -6,7 +6,8 @@
 
 ---
 
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/bac7b848-2055-41e1-a40d-27995dd1cf00" /> Project Overview
+
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/b0f2f0ec-a9ba-4178-96a0-238155613439" /> Project Overview
 
 Fundi254 is a **dual-role mobile marketplace** designed to connect skilled artisans (plumbers, electricians, etc.) with clients across Kenya.
 
